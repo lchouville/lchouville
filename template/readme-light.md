@@ -1,15 +1,15 @@
 # "Project Name"
 
 ## ℹ️ Introduction
-"Description"
+"A brief description of the project and its purpose."
 
 ## 🛠️ Installation
 ### Download Repository
-Download the repository from `Repository Url`
+Clone or download the repository from [Repository URL](https://example.com).
 
 ## 📚 Documentation
 
-## 👤 Authors
+## 👤 Authors & Collaborators
 
 <table style="border-collapse: collapse; border: none; width: 100%">
   <!-- Column 1 - Max 3 profils -->
@@ -39,6 +39,7 @@ Download the repository from `Repository Url`
           </td>
           <td style="border: none; padding: 5px; text-align: left">
             <p style="text-align: center;"><strong>Luka Chouville</strong></p>
+            <p style="text-align: center;font-size:17px">Project Leader</p>
             <a
               href="https://www.linkedin.com/in/luka-chouville-6abb3717a"
               style="text-decoration: none"
@@ -73,8 +74,15 @@ Download the repository from `Repository Url`
         </tr>
       </table>
     </td>
-    <!-- Contributeur 2 -->
-    <!-- <td
+  </tr>
+</table>
+
+## 👥 Contributors
+<table style="border-collapse: collapse; border: none; width: 100%">
+  <!-- Column 1 - Max 3 profils -->
+  <tr style="border: none">
+    <!-- Contributeur 1 -->
+    <td
       style="
         border: none;
         padding: 10px;
@@ -97,9 +105,10 @@ Download the repository from `Repository Url`
             </a>
           </td>
           <td style="border: none; padding: 5px; text-align: left">
-            <p style="text-align: center;"><strong>Luka Chouville</strong></p>
+            <p style="text-align: center;"><strong>Jonh Doe</strong></p>
+            <p style="text-align: center;font-size:17px">Testing</p>
             <a
-              href="https://www.linkedin.com/in/luka-chouville-6abb3717a"
+              href="https://www.linkedin.com/in/#"
               style="text-decoration: none"
             >
               <img
@@ -109,7 +118,7 @@ Download the repository from `Repository Url`
               LinkedIn </a
             ><br />
             <a
-              href="https://github.com/lchouville"
+              href="https://github.com/johndoe"
               style="text-decoration: none"
             >
               <img
@@ -119,18 +128,18 @@ Download the repository from `Repository Url`
               GitHub </a
             ><br />
             <a
-              href="mailto:luka.chouville@laposte.net"
+              href="mailto:#"
               style="text-decoration: none"
             >
               <img
                 src="https://img.icons8.com/color/20/000000/gmail.png"
                 style="vertical-align: middle"
               />
-              luka.chouville@laposte.net
+              john.doe@mail.fr
             </a>
           </td>
         </tr>
       </table>
-    </td> -->
+    </td>
   </tr>
 </table>
