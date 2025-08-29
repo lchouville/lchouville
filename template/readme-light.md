@@ -1,4 +1,7 @@
-# "Project Name"
+<h1>
+    <a href="readme-fr.md"><img src="https://img.icons8.com/color/48/000000/france-circular.png" width="30" alt="Français"/></a>
+    <a href="readme.md"><img src="https://img.icons8.com/color/48/000000/great-britain-circular.png" width="30" alt="English"/></a> "Project Name"
+</h1>
 
 ## ℹ️ Introduction
 "A brief description of the project and its purpose."
